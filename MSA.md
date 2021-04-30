@@ -23,9 +23,11 @@
 - [SW 설치가이드](https://docs.google.com/document/d/1pmdrC1mFp2BiSAaVSozFQ9FFV_FeHaSDLQnWcWXm-Nc/edit?usp=sharing)
 
 # 애플리케이션 샘플
+- https://github.com/AMF-skcc/amf-demo
+
 ## 마이크로서비스
 - 소스
-  - https://github.com/ej0311/factory-edu-microservices
+  - https://github.com/AMF-skcc/amf-edu-microservices
 - Key Concept</p>
   ![factory_keyconcept](https://user-images.githubusercontent.com/62231786/113655776-687aa280-96d5-11eb-9847-e72e21c0ee8a.png)
 - Domain Model</p>
@@ -33,7 +35,7 @@
 
 ## 모놀리식
 - 소스
-  - https://github.com/ej0311/factory-edu-monolithic
+  - https://github.com/AMF-skcc/amf-edu-monolithic
 - ERD</p>
   ![factory_erd](https://user-images.githubusercontent.com/62231786/113655775-687aa280-96d5-11eb-9439-293685fbc2a6.png)
 
