@@ -9,10 +9,10 @@
 ***
 
 ### MSA 과정 
-- [클릭](./MSA/) 
+- [클릭](./MSA.md/) 
 
 ### Cloud 과정 
-- [클릭](./cloud/) 
+- [클릭](./cloud.md/) 
 
 ### DevOps 과정 
-- [클릭](./devops/) 
+- [클릭](./devops.md/) 
