@@ -11,21 +11,18 @@
 - myshare 공간은 사번과 VDI 비번으로 로그인 가능합니다.
 - myshare 로그인 실패할 경우(계정이 없는 경우임) devops4u@sk.com으로 계정 생성을 요청하십시오.
 
-## 기타 안내
-- 미로 사이트 개설 방법 (TBD)
+***
+### [ Agile Section](./Agile.md/) 
 
-<br>
 ***
 
-### MSA 과정 
-- [클릭](./MSA.md/) 
+### [ MSA 과정 ](./MSA.md/) 
 
-<br>
+***
 
-### Cloud 과정 
-- [클릭](./cloud.md/) 
+### [ Cloud 과정 ](./cloud.md/) 
 
-<br>
+***
+### [ DevOps 과정 ](./devops.md/) 
 
-### DevOps 과정 
-- [클릭](./devops.md/) 
+***
