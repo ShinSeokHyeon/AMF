@@ -55,4 +55,5 @@
 | postman desktop agent	| 0.3.4	| https://dl-agent.pstmn.io/download/latest/win64	| 기능(API) 테스트 |
 | Node.js	| 14.16.1	| https://nodejs.org/ko/download/	| 기능(API) 테스트 |
 | newman	| 5.2.3 |	Node.js (& NPM) 설치 후... <br>$ npm install -g newman <br>$ npm install -g newman-reporter-html <br>$ npm install -g newman-reporter-htmlextra <br> | 기능(API) 테스트 |
+| JMeter | 5.4.1 | https://jmeter.apache.org/download_jmeter.cgi | 성능 테스트 |
 
