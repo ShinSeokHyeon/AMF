@@ -39,14 +39,14 @@
 
 - 설치 SW
 
-| SW 명 | 버전 | 설명 | 다운로드 URL |  비고  |
-|---|:---:|:---:|---:|:---:|
+| SW 명 | 버전 | 다운로드 URL |  비고  |
+|---|:---:|:---|:---|
 | JDK | 11 | https://adoptopenjdk.net/| 자바 개발 도구 오픈소스|
 | STS | 4.9.0 | https://spring.io/tools | 이클립스 기반 스프링 애플리케이션 개발 도구 | 
 | Lombok | 1.18.20 |  http://projectlombok.org/download.html | 자바 코드 경량화 라이브러리 |
 | Git | 2.31.1 | http://git-scm.com/downloads | 소스 형상 관리 도구 |
 | Docker | 20.10.5 | http://docker.com/products/docker-desktop | 애플리케이션 컨테이너 관리 도구 |
-| MariaDB | 10.5.8   https://mariadb.com/downloads | 관계형 데이터 베이스 |
+| MariaDB | 10.5.8 | https://mariadb.com/downloads | 관계형 데이터 베이스 |
 | Choco	| | https://chocolatey.org/install	| kustomize 등을 설치하기 위한 목적으로 윈도우 패키지 관리 매니져를 선행 설치 |
 | kustomize	| 3.9.1	 | https://community.chocolatey.org/packages/kustomize | 설치 - choco install kustomize <br> 삭제 - choco uninstall kustomize |
 | kubectl	| | https://kubernetes.io/ko/docs/tasks/tools/install-kubectl-windows/ | 설치 - choco install kubernetes-cli	<br>< 삭제 - choco uninstall kubernetes-cli |

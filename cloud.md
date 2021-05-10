@@ -3,6 +3,6 @@
 
 - Cloud 실습용 app download
 
-  - https://factory-git.cloudzcp.io/amf-tem/awesome-shopping
+  - https://factory-git.cloudzcp.io/amf-team/awesome-shopping
 
 
