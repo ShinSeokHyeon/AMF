@@ -57,3 +57,10 @@
 | newman	| 5.2.3 |	Node.js (& NPM) 설치 후... <br>$ npm install -g newman <br>$ npm install -g newman-reporter-html <br>$ npm install -g newman-reporter-htmlextra <br> | 기능(API) 테스트 |
 | JMeter | 5.4.1 | https://jmeter.apache.org/download_jmeter.cgi | 성능 테스트 |
 
+
+<br>
+
+### 과정 종료 설문조사
+
+- 보다 나은 AMF 과정을 위해 Crew 분들의 의견을 듣고 싶습니다. :  ▶︎▶︎ [클릭](https://url.kr/dvth1j)
+- ![](/images/amf-post-questionaire.png)
