@@ -7,7 +7,7 @@
 
 ### 작업공간 안내
 - 본 과정의 일정 및 공식 자료와 각 조별 산출물은 myshare에서 관리합니다.
-  - https://myshare.skcc.com/pages/viewpage.action?pageId=111488815
+  - 3차수 ▶︎ https://myshare.skcc.com/pages/viewpage.action?pageId=113477047
 - myshare 공간은 사번과 VDI 비번으로 로그인 가능합니다.
 - myshare 로그인 실패할 경우(계정이 없거나 초기화가 되지 않은 경우 등.... ), devops4u@sk.com으로 계정 및 권한을 요청하십시오.
 
