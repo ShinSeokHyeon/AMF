@@ -48,7 +48,9 @@
 
 
 - 설치 SW
-
+  - [ MSA 영역 상세 가이드 ](./MSA_install.md/)
+    - JDK, STS, Lombok, Git, Docker, MariaDB
+   
 | SW 명 | 버전 | 다운로드 URL |  비고  |
 |---|:---:|:---|:---|
 | JDK | 11 | https://adoptopenjdk.net/| 자바 개발 도구 오픈소스|
