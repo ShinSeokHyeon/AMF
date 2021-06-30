@@ -18,7 +18,7 @@
 
 ### 종료 설문 
 - AMF 과정을 지속적으로 개선하기 위해 여러분의 소중한 의견이 필요합니다. 퇴소 전까지 종료 설문 부탁드립니다.   
-   ▶︎▶︎ [종료 설문](https://url.kr/dvth1j)
+   ▶︎▶︎ [종료 설문](https://url.kr/dvth1j) <br>
   ![](/images/amf-post-questionaire.png)
 <br>
 
