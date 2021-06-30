@@ -5,8 +5,9 @@
 ### 입과자 사전 설문 
 - AMF 과정 진행을 위해 몇가지 정보가 필요합니다. 링크를 클릭하여 설문을 작성해 주세요~ :   
    ▶︎▶︎ [설문조사 시작](https://url.kr/k7vjf2)
-   
+
 <br>
+
 ### 작업공간 안내
 - 본 과정의 일정 및 공식 자료와 각 조별 산출물은 myshare에서 관리합니다.
   - 3차수 ▶︎ https://myshare.skcc.com/pages/viewpage.action?pageId=113477047
@@ -18,7 +19,7 @@
 ### 종료 설문 
 - AMF 과정을 지속적으로 개선하기 위해 여러분의 소중한 의견이 필요합니다. 퇴소 전까지 종료 설문 부탁드립니다.   
    ▶︎▶︎ [종료 설문](https://url.kr/dvth1j)
-
+  ![](/images/amf-post-questionaire.png)
 <br>
 
 ***
@@ -70,7 +71,4 @@
 
 <br>
 
-### 과정 종료 설문조사
-
-- 보다 나은 AMF 과정을 위해 Crew 분들의 의견을 듣고 싶습니다. :  ▶︎▶︎ [클릭](https://url.kr/dvth1j)
-- ![](/images/amf-post-questionaire.png)
+<EOF>
