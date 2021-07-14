@@ -4,7 +4,7 @@
 
 ### 입과자 사전 설문 
 - AMF 과정 진행을 위해 몇가지 정보가 필요합니다. 링크를 클릭하여 설문을 작성해 주세요~ :   
-   ▶︎▶︎ [설문조사 시작](https://url.kr/k7vjf2)
+   ▶︎▶︎ [설문조사 시작 (https://url.kr/k7vjf2)](https://docs.google.com/forms/d/e/1FAIpQLSf324Ye_hVanrb1KkiCOCwTYyEg9CnPMvgeN4kMsxvj8DrnRQ/viewform)
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ### 종료 설문 
 - AMF 과정을 지속적으로 개선하기 위해 여러분의 소중한 의견이 필요합니다. 퇴소 전까지 종료 설문 부탁드립니다.   
-   ▶︎▶︎ [종료 설문](https://url.kr/dvth1j) <br>
+   ▶︎▶︎ [종료 설문 (https://url.kr/dvth1j)] (https://docs.google.com/forms/d/e/1FAIpQLSeD4f0bCgknd1gTpYW5P6S19ACoJhU5ws0tNMPxwhIvYLb1jA/viewform) <br>
   ![](/images/amf-post-questionaire.png)
 <br>
 
