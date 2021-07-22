@@ -2,7 +2,7 @@
 
 # Table of contents
 - [애플리케이션 샘플](#애플리케이션-샘플)
-  - [Front-thymeleat](#Front-thymeleat)
+  - [Front-thymeleaf](#Front-thymeleaf)
   - [마이크로서비스](#마이크로서비스)
   - [모놀리식](#모놀리식)
 
