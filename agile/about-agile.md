@@ -1,6 +1,4 @@
 
-# Agile Collection for AMF
-
 ## Agile 과정 학습 목표 및 자료 
 ### 1일차 
 #### Scrum Team 구성
@@ -20,8 +18,8 @@
 
 ### 2일차
 
-#### Daily Scrum (매일 아침 9:10에 진행)
-- 학습목표 : 매일 팀원들과 소통하며, 진행한 일/오늘 할 일/문제점 등을 공유한다.
+#### Daily Scrum (2일차부터 매일 실시합니다.)
+- 학습목표 : 팀은 One-Body로 일하며, 매일 팀원들과 소통하며, "Done /To-Do /Problem" 등을 공유한다.
 - 학습자료 : N/A
 <br>   
 
