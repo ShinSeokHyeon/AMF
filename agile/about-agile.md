@@ -1,22 +1,45 @@
 
 # Agile Collection for AMF
 
+## Agile 과정 학습 목표 및 자료 
+### 1일차 
+#### Scrum Team 구성
+- 학습목표 : 팀웍 형성 및 R&R을 정한다. 팀을 위한 규칙을 정의한다.
+- 학습자료 : [[AMF_Agile] 1. ScrumTeam구성_TeamBuilding_v1.0.pptx](https://github.com/AMF-skcc/AMF/raw/main/agile/lectures/%5BAMF_Agile%5D%202.%20Agile%EA%B0%9C%EC%9A%94%EB%B0%8F%EC%82%AC%EB%A1%80_v1.0.pptx) 
+<br>   
 
-## miro 사용 준비
-- https://miro.com 가입
+#### Agile 개요 및 적용사례
+- 학습목표 : 
+- 학습자료 :
+<br>   
 
-- team 공간 생성 (무료 계정은 디폴트로 1개의 team 공간만 만들 수 있습니다) 
+#### Vision 수립 W/S
+- 학습목표 : 
+- 학습자료 :
+<br>   
 
-- team 공간 안에 보드는 3개까지 무료로 사용할 수 있습니다. 
-  - 4개 이상 생성시 이전에 만들었던 보드는 ReadOnly로 잠기게 됩니다.  
+### 2일차
 
-- Team member 초대 : 보드에서 invite누르고 멤버의 email 주소 입력합니다. (miro 가입용 이멜 주소)
-  
-![](/images/miro-board-creation.png)
+#### Daily Scrum (매일 아침 9:10에 진행)
+- 학습목표 : 매일 팀원들과 소통하며, 진행한 일/오늘 할 일/문제점 등을 공유한다.
+- 학습자료 : N/A
+<br>   
 
+#### User Story 도출
+- 학습목표 : 
+- 학습자료 :
+<br>   
 
-- miro 보드는 여러분의 Working 활동을 온라인에서 Support하기 위한 도구이며 공식 산출물 공간은 아닙니다.
-  - 공식 산출물 공간은 myShare를 사용하여 주세요~
+#### Release Planning
+- 학습목표 : 
+- 학습자료 :
+<br>   
 
+#### Release Planning
+- 학습목표 : 
+- 학습자료 :
+<br>  
+
+---
 
 

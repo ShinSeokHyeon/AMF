@@ -1,10 +1,13 @@
 # MSA Collection for AMF
 
 # Table of contents
+- [MSA Collection for AMF](#msa-collection-for-amf)
+- [Table of contents](#table-of-contents)
 - [애플리케이션 샘플](#애플리케이션-샘플)
-  - [Front-thymeleaf](#Front-thymeleaf)
+  - [Front](#front)
   - [마이크로서비스](#마이크로서비스)
   - [모놀리식](#모놀리식)
+    - [miro 사용 준비](#miro-사용-준비)
 
 # 애플리케이션 샘플
 - https://github.com/AMF-skcc/amf-demo
@@ -26,4 +29,17 @@
   - https://github.com/AMF-skcc/amf-edu-monolithic
 - ERD</p>
   ![factory_erd](https://user-images.githubusercontent.com/62231786/113655775-687aa280-96d5-11eb-9439-293685fbc2a6.png)
+
+### miro 사용 준비
+- https://miro.com 가입
+- team 공간 생성 (무료 계정은 디폴트로 1개의 team 공간만 만들 수 있습니다) 
+- team 공간 안에 보드는 3개까지 무료로 사용할 수 있습니다. 
+  - 4개 이상 생성시 이전에 만들었던 보드는 ReadOnly로 잠기게 됩니다.  
+
+- Team member 초대 : 보드에서 invite누르고 멤버의 email 주소 입력합니다. (miro 가입용 이멜 주소)
+  
+![](/images/miro-board-creation.png)
+
+- miro 보드는 여러분의 Working 활동을 온라인에서 Support하기 위한 도구이며 공식 산출물 공간은 아닙니다.
+  - 공식 산출물 공간은 myShare를 사용하여 주세요~
 
