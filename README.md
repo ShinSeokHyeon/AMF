@@ -26,7 +26,7 @@ AMF 과정에서는 줌 대신 게더타운과 온라인 보드를 활용합니�
   개인용 PC에 설치하고 싶은 경우, 아래 내용을 설치하시면 됩니다.
   개인용 PC설치 도중, 문제가 발생할 경우 각 과정별 담당자에게 문의하시기 바랍니다.
    
-  - MSA 설계를 위한 도구 [설치](./MSA/MSA_install.md/)
+  - MSA 설계를 위한 도구 설치 : [ ☞ ](./msa/MSA_install.md/)
     - JDK, STS, Lombok, Git, Docker, MariaDB 등
   - Back-End 개발을 위한 도구 설치
   - Front-End 개발을 위한 도구 설치
@@ -62,9 +62,9 @@ AMF 과정에서는 줌 대신 게더타운과 온라인 보드를 활용합니�
 
 ### [ MSA Section ](./msa/about-msa.md/) 
 
-### [ Back-end Development Section ](***TBD) 
+#### [ Back-end Dev ](https://www.msaschool.io/operation/introduction/related-resource/) 
 
-### [ Front-end Development Section ](***TBD) 
+#### [ Front-end Dev ](***TBD) 
 
 ***
 
