@@ -52,85 +52,29 @@ AMF 과정에서는 줌 대신 게더타운과 온라인 보드를 활용합니�
 
 ## 강의 자료 및 목표
 
-### 공통
+### 1주차 (Sprint #0)
+
+#### 공통
 - Orientation (1일차 오전 진행)
   
-### Agile
+#### [ Agile ](./agile/about-agile.md/) 
 
+#### [ MSA 설계 ](./msa/about-msa.md/) 
 
-## 학습 시간표 상세
-강의 진행 상황에 따라 바뀔 수 있습니다.
+#### [ MSA Back-end Dev ](https://www.msaschool.io/operation/introduction/related-resource/) 
 
-###1주차 (Sprint #0)   
-#### 1일차 (9:00 ~ )
-- 오전 : 과정 Orientation 및 팀 빌딩
-  - 09:00 ~ 09:30 : Lv.3 과정 개요 및 교육 환경 설명
-  - 09:30 ~ 10:00 : App. Modernization Factory 프로그램 개요
-  - 10:10 ~ 10:50 : Scrum Team 만들기
-  - 11:00 ~ 12:00 : Agile 개요 및 사례 소개
-- 오후 : Vision W/S 및 MSA 전략적 설계 이론
-  - 13:20 ~ 14:20 : Design Thinking W/S (브레인스토밍, 아이디어 확장하기) 
-  - 14:30 ~ 16:00 : 스토리보드 작성 및 비전 선언문 수립, 팀별 공유  
-  - 16:10 ~ 17:40 : 
-    - DDD 중심의 전략적 설계
-    - 이벤트 스토밍 기법을 활용한 마이크로서비스 도출
-    - 마이크로서비스 적용으로 발생하는 문제와 해결방안
+---
+### 2주차 (Sprint #1)
 
-#### 2일차
-  - 09:10 ~ 09:20 : Daily Scrum (반복)
-    - 마이크로서비스 워크샵
-- 
-#### 3일차
+#### [ ZCP  ](./cloud-zcp/about-zcp.md/) 
 
-#### 4일차
+#### [ AWS  ](./cloud-aws/about-aws.md/) 
 
-#### 5일차
+#### [ Azure  ](./cloud-azure/about-azure.md/) 
 
+#### [ MSA Front-end Dev ](***TBD) 
 
-| 일차 | 과목명 | 주요학습 내용 |  비고  |
-|---|:---:|:---|:---|
-|1일차(월)|과정 Orientation|||
-
-
-###2주차 (Sprint #1)   
-#### 6일차
-
-#### 7일차
-
-#### 8일차
-
-#### 9일차
-
-#### 10일차
-
-
-| 일차 | 과목명 | 주요학습 내용 |  비고  |
-|---|:---:|:---|:---|
-
-<br>
-***
-
-### [ Agile Section](./agile/about-agile.md/) 
-
-***
-
-### [ MSA Section ](./msa/about-msa.md/) 
-
-#### [ Back-end Dev ](https://www.msaschool.io/operation/introduction/related-resource/) 
-
-#### [ Front-end Dev ](***TBD) 
-
-***
-
-### [ ZCP Section ](./cloud-zcp/about-zcp.md/) 
-
-### [ AWS Section ](./cloud-aws/about-aws.md/) 
-
-### [ Azure Section ](./cloud-azure/about-azure.md/) 
-
-***
-
-### [ DevOps Section ](./devops/devops.md/) 
+#### [ DevOps  ](./devops/devops.md/) 
 
 ***
 
