@@ -23,11 +23,11 @@
 <br>
 
 ***
-### [ Agile Section](./Agile.md/) 
+### [ Agile Section](./agile/Agile.md/) 
 
 ***
 
-### [ MSA Section ](./MSA.md/) 
+### [ MSA Section ](./msa/MSA.md/) 
 
 ***
 
