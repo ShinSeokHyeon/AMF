@@ -31,11 +31,17 @@
 
 ***
 
-### [ Cloud Section ](./cloud.md/) 
+### [ ZCP Section ](./cloud-zcp/cloud-zcp.md/) 
+
+***
+### [ AWS Section ](./cloud-aws/cloud-aws.md/) 
+
+***
+### [ Azure Section ](./cloud-azure/cloud-azure.md/) 
 
 ***
 
-### [ DevOps Section ](./devops.md/) 
+### [ DevOps Section ](./devops/devops.md/) 
 
 ***
 ### 실습을 위한 PC 설정 가이드 
@@ -49,7 +55,7 @@
 
 
 - 설치 SW
-  - [ MSA 영역 상세 가이드 ](./MSA_install.md/)
+  - [ MSA 영역 상세 가이드 ](./MSA/MSA_install.md/)
     - JDK, STS, Lombok, Git, Docker, MariaDB
    
 | SW 명 | 버전 | 다운로드 URL |  비고  |
