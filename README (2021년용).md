@@ -1,25 +1,28 @@
 # Welcome to Application Modernization Factory
 
-<br>
-
-### AMF 과정 참여를 위한 준비
-- gather town 입장 : https://app.gather.town/app/9HTmUf3uGr7IR3To/AMF-L3
-  - 일단 아바타까지만 생성하시고, 비번은 당일 아침 공지해드립니다.
-- miro.com 가입
-- marimba.team 가입
-** 모두 같은 이메일 계정으로 가입해주시고, 가능하다면 gmail 계정으로 가입을 권고합니다.**
 
 
-### Time Table
-
+### 입과자 사전 설문 
+- AMF 과정 진행을 위해 몇가지 정보가 필요합니다. 링크를 클릭하여 설문을 작성해 주세요~ :   
+   ▶︎▶︎ [설문조사 시작 (https://url.kr/k7vjf2)](https://docs.google.com/forms/d/e/1FAIpQLSf324Ye_hVanrb1KkiCOCwTYyEg9CnPMvgeN4kMsxvj8DrnRQ/viewform)
 
 <br>
 
-### 학습 목표 및 강의자료
+### 작업공간 안내
+- 본 과정의 일정 및 공식 자료와 각 조별 산출물은 myshare에서 관리합니다.
+  - 5차수 ▶︎ https://myshare.skcc.com/pages/viewpage.action?pageId=115369131
+- myshare 공간은 사번과 VDI 비번으로 로그인 가능합니다.
+- myshare 로그인 실패할 경우(계정이 없거나 초기화가 되지 않은 경우 등.... ), devops4u@sk.com으로 계정 및 권한을 요청하십시오.
 
+<br>
+
+### 종료 설문 
+- AMF 과정을 지속적으로 개선하기 위해 여러분의 소중한 의견이 필요합니다. 퇴소 전까지 종료 설문 부탁드립니다.   
+   ▶︎▶︎ [종료 설문 (https://url.kr/dvth1j)](https://docs.google.com/forms/d/e/1FAIpQLSeD4f0bCgknd1gTpYW5P6S19ACoJhU5ws0tNMPxwhIvYLb1jA/viewform) <br>
+  ![](/images/amf-post-questionaire.png)
+<br>
 
 ***
-
 ### [ Agile Section](./agile/Agile.md/) 
 
 ***
