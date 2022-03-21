@@ -2,21 +2,25 @@
 
 <br>
 
-### AMF 과정 참여를 위한 준비
+## AMF 과정 참여를 위한 준비
 - gather town 입장 : https://app.gather.town/app/9HTmUf3uGr7IR3To/AMF-L3
   - 일단 아바타까지만 생성하시고, 비번은 당일 아침 공지해드립니다.
-- miro.com 가입
-- marimba.team 가입
-** 모두 같은 이메일 계정으로 가입해주시고, 가능하다면 gmail 계정으로 가입을 권고합니다.**
+- [miro.com](https://miro.com/) 가입
+- [marimba.team](https://www.marimba.team/) 가입   
+**모두 같은 이메일 계정으로 가입해주시고, 가능하다면 gmail 계정으로 가입을 권고합니다.**
 
+<br>
 
 ### Time Table
 
 
 <br>
 
-### 학습 목표 및 강의자료
-
+## 학습 목표 및 강의자료
+**Sprint#0**
+| 일차 | 과목명 | 주요학습 내용 |  비고  |
+|---|:---:|:---|:---|:---|
+|1일차(월)|과정 Orientation|||
 
 ***
 
